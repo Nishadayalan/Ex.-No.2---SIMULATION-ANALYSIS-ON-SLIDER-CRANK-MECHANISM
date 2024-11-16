@@ -1,4 +1,4 @@
-# Ex. No.  - SIMULATION ANALYSIS ON SLIDER CRANK MECHANISM
+# Ex. No. 2 - SIMULATION ANALYSIS ON SLIDER CRANK MECHANISM
 
 ## DATE: 30-9-2024
 
@@ -44,8 +44,9 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/188cba1a-fe54-4549-a6e5-3bb6b8d7b120)
 
 ## Output
-![image](https://github.com/user-attachments/assets/376996df-b013-4db4-983e-6b566cd24fb3)
-
+![Screenshot 2024-09-21 190222](https://github.com/user-attachments/assets/445b560c-a3dc-47cc-9eaa-57761e14160c)
+![Screenshot 2024-09-21 190432](https://github.com/user-attachments/assets/ce671198-1d34-4775-8ba7-b81b07c5d104)
+![Screenshot 2024-09-21 190609](https://github.com/user-attachments/assets/1b11221f-cd96-4e83-aae9-6f893d1f44e3)
 
 ### Name: NISHA D
 ### Register Number: 212223230143
